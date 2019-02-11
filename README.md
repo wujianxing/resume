@@ -40,7 +40,9 @@
 # 技能清单
 
 以下均为我熟练使用的技能
+
 编程语言:  C、JAVA、Android、html、MySQL、PHP
+
 版本管理:  Git
 
 
